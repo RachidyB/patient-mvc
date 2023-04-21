@@ -78,8 +78,8 @@ public class PatientController {
                        BindingResult bindingResult  ,//gener la liste des erreur,
                        @RequestParam(defaultValue = "0") int page ,
                        @RequestParam(defaultValue = "") String keyword) {
-      if(bindingResult.hasErrors()) return "formPatients";
-      patientRepository.save(patient);
+        if(bindingResult.hasErrors()) return "formPatients";
+        patientRepository.save(patient);
         return "redirect:/user/index?page="+page+"&keyword="+keyword;
     }
 
