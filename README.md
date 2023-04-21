@@ -1,6 +1,6 @@
 Activity 3 :
 <img width="1440" alt="Screenshot 2023-04-21 at 16 59 01" src="https://user-images.githubusercontent.com/86338020/233694327-68ec2015-793e-496e-9d6a-980b0ee101f2.png">
-<img width="1440" alt="Screenshot 2023-04-21 at 16 59 01<img width="1440" alt="Screenshot 2023-04-21 at 17 07 20" src="https://user-images.githubusercontent.com/86338020/233694838-0ca9dd0e-e5f9-463a-9b37-a12b0188bcc0.png">
+<img width="1440" alt="Screenshot 2023-04-21 at 17 07 20" src="https://user-images.githubusercontent.com/86338020/233694838-0ca9dd0e-e5f9-463a-9b37-a12b0188bcc0.png">
 <img width="1440" alt="Screenshot 2023-04-21 at 17 07 31" src="https://user-images.githubusercontent.com/86338020/233694851-571ecc45-84a2-455c-a5a4-b7776abd274a.png">
 <img width="1440" alt="Screenshot 2023-04-21 at 17 07 36" src="https://user-images.githubusercontent.com/86338020/233694874-c533ae2c-4f84-481a-9618-db37bb5dcafd.png">
 Activity 4 :
